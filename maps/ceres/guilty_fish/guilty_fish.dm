@@ -1,7 +1,7 @@
 #include "guilty_fish.dmm"
 #include "icons.dm"
 #include "guilty_fish_areas.dm"
-#inclide "guilty_fish_shuttles.dm"
+#include "guilty_fish_shuttles.dm"
 
 /*
 /obj/effect/overmap/ship/guilty_fish
