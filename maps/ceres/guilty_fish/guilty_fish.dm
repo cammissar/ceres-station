@@ -1,4 +1,4 @@
-#include "guilty_fish.dmm"
+//#include "guilty_fish.dmm"
 #include "icons.dm"
 #include "guilty_fish_areas.dm"
 #include "guilty_fish_shuttles.dm"
@@ -17,7 +17,7 @@
 	name = "Guilty Fish"
 	id = "awaysite_guilty_fish"
 	description = "Xynergy Fishing Vessel"
-	suffixes = list("guilty_fish/guilty_fish.dmm")
+	suffixes = list("guilty_fish.dmm")
 	cost = 1
 
 /mob/living/simple_animal/hostile/carp/shark // generally stronger version of a carp that doesn't die from a mean look. Fance new sprites included, credits to F-Tang Steve

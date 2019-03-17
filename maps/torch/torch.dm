@@ -71,11 +71,6 @@
 	#include "loadout/~defines.dm"
 
 /*
-
-	#include "guiltyFish.dmm"
-
-	#include "myfirststation.dmm"
-
 	#include "torch-1.dmm"
 	#include "torch-2.dmm"
 	#include "torch-3.dmm"
@@ -84,7 +79,7 @@
 	#include "torch-6.dmm"
 	#include "torch-7.dmm"
 */
-	#include "../ceres/guilty_fish/guilty_fish.dm"
+
 
 	#include "../away/empty.dmm"
 	#include "../away/mining/mining.dm"

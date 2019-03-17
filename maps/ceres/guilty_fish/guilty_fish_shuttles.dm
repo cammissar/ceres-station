@@ -1,5 +1,5 @@
 /datum/shuttle/autodock/overmap/carp_pot_one
-	name = "Carp Pot One"
+	name = "Carp_Pot_One"
 	warmup_time = 5
 	move_time = 1
 	shuttle_area = /area/guilty_fish/fishing_wing
